@@ -17,7 +17,7 @@ const BLOG = {
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || true, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
-  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '壹号资源联盟', // 您的昵称 例如 tangly1024
+  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '小新的资源仓库', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '1ho.online出品', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://league.1ho.online', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '1ho资源联盟, 壹号资源联盟, 1ho, 成人论坛, 1024, 暗网, 呦呦, 幼幼资源, 91porn, 成人网站, 色情网站, 宅男福利, 福利姬, 强奸, 迷奸, 乱伦, 草榴, 2048, 幼幼, 缅北, 人兽', // 网站关键词 英文逗号隔开
